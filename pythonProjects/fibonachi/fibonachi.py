@@ -29,3 +29,6 @@ for i_num, i_step in zip(nums, stepes):
     n = step
 
     print(fib_arr(first_num, second_num, n))
+
+
+#
