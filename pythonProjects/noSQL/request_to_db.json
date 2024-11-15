@@ -1,0 +1,11 @@
+{
+  "USERS": {"POST" : {"user_name": "IVAN", "user_surname": "MAZEPA"},
+            "DELETE": {"user_name": "IVAN", "user_surname": "MAZEPA"}
+  },
+  "THINGS": {"POST" : {"thing_name": "Phone", "thing_count": 4},
+            "DELETE": {"user_name": "TV"}
+  },
+  "RENT": {"POST" : {"user_name": "IVAN","user_surname": "FRANKO","thing_name": "TV", "count": "5"},
+            "DELETE": {"user_name": "IVAN","user_surname": "MAZEPA","thing_name": "TV", "count": 3}
+  }
+}
